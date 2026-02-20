@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual Environment
+rag_env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Model Files (large)
+rag_components/content/gpt2_model/
+
+# Vector Store
+rag_components/content/chroma_db/
+
+# Pickled Configs
+*.pkl
+
+# Data Files
+*.csv
+
+# Environment Variables
+.env
+
+# Logs
+*.log
