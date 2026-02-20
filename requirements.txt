@@ -1,0 +1,12 @@
+torch
+transformers
+langchain
+langchain-huggingface
+langchain-community
+langgraph
+chromadb
+sentence-transformers
+pandas
+flask  # For Flask app
+fastapi  # For FastAPI app
+uvicorn  # For running FastAPI
